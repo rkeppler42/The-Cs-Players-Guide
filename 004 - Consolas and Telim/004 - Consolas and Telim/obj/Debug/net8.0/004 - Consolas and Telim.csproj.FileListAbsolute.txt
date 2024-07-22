@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\bin\Debug\net8.0\004 - Consolas and Telim.exe
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\bin\Debug\net8.0\004 - Consolas and Telim.deps.json
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\bin\Debug\net8.0\004 - Consolas and Telim.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\bin\Debug\net8.0\004 - Consolas and Telim.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\bin\Debug\net8.0\004 - Consolas and Telim.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\refint\004 - Consolas and Telim.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\004 - Consolas and Telim.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\004 - Consolas and Telim\004 - Consolas and Telim\obj\Debug\net8.0\ref\004 - Consolas and Telim.dll
