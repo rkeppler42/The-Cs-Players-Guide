@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("004 - Consolas and Telim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe2701bb8bb42b9c6d2a23921bd622e9f3693fcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74758bed758c90cfc6da0246498e4bb88f769d2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("004 - Consolas and Telim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("004 - Consolas and Telim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
