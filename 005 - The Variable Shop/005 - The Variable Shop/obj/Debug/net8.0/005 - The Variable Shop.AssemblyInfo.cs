@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("004 - Consolas and Telim")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("005 - The Variable Shop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+847604dcb4b1a74279aaae43bdee9f75b3ffa6a0")]
-[assembly: System.Reflection.AssemblyProductAttribute("004 - Consolas and Telim")]
-[assembly: System.Reflection.AssemblyTitleAttribute("004 - Consolas and Telim")]
+[assembly: System.Reflection.AssemblyProductAttribute("005 - The Variable Shop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("005 - The Variable Shop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

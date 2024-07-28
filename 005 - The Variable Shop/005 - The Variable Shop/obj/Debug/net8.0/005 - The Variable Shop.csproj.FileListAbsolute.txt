@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\bin\Debug\net8.0\005 - The Variable Shop.exe
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\bin\Debug\net8.0\005 - The Variable Shop.deps.json
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\bin\Debug\net8.0\005 - The Variable Shop.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\bin\Debug\net8.0\005 - The Variable Shop.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\bin\Debug\net8.0\005 - The Variable Shop.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.sourcelink.json
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\refint\005 - The Variable Shop.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\005 - The Variable Shop.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\The-Cs-Players-Guide\005 - The Variable Shop\005 - The Variable Shop\obj\Debug\net8.0\ref\005 - The Variable Shop.dll
